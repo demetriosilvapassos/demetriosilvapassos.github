@@ -78,8 +78,10 @@ Atuação contínua no desenvolvimento, manutenção e evolução de sistema gov
 * Experiência com sistemas de grande responsabilidade
 * Código orientado à manutenção e longevidade
 * Evolução contínua de arquitetura ao longo dos anos
+* Atuação com sistemas legados e modernização gradual
 
-**Stack:** Laravel • Vue.js • MySQL • (Java em evolução)
+**Stack:**
+PHP • Laravel • Vue.js • MySQL • Composer • MVC • (Java em evolução)
 
 🔒 Projeto privado / institucional
 
